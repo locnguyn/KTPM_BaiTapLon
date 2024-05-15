@@ -1,0 +1,6 @@
+﻿Test case ID, recipients, subject, content, expected result
+TC01, ktpm.13.loc@gmail.com, test subject, test content, Sent email successfully
+TC01, ktpm.13.loc@gmail.com 2151013052loc@gmail.com anekngiuenhat@gmail.com, test subject, test content, Sent email successfully
+TC01, ktpm.13.loc@gmail.com,,,Sent email successfully
+TC02,, test subject, test content, Please specify at least one recipient.
+TC03,khong.hop.le.13.loc, test subject, test content, Invalid recipients

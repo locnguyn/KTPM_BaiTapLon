@@ -1,0 +1,9 @@
+D:\232\KTPM\BaiTapLonKTPM\BaiTapLonKTPM\BaiTapLonKTPM\bin\Debug\BaiTapLonKTPM.exe.config
+D:\232\KTPM\BaiTapLonKTPM\BaiTapLonKTPM\BaiTapLonKTPM\bin\Debug\BaiTapLonKTPM.exe
+D:\232\KTPM\BaiTapLonKTPM\BaiTapLonKTPM\BaiTapLonKTPM\bin\Debug\BaiTapLonKTPM.pdb
+D:\232\KTPM\BaiTapLonKTPM\BaiTapLonKTPM\BaiTapLonKTPM\obj\Debug\BaiTapLonKTPM.Form_13_Loc.resources
+D:\232\KTPM\BaiTapLonKTPM\BaiTapLonKTPM\BaiTapLonKTPM\obj\Debug\BaiTapLonKTPM.Properties.Resources.resources
+D:\232\KTPM\BaiTapLonKTPM\BaiTapLonKTPM\BaiTapLonKTPM\obj\Debug\BaiTapLonKTPM.csproj.GenerateResource.cache
+D:\232\KTPM\BaiTapLonKTPM\BaiTapLonKTPM\BaiTapLonKTPM\obj\Debug\BaiTapLonKTPM.csproj.CoreCompileInputs.cache
+D:\232\KTPM\BaiTapLonKTPM\BaiTapLonKTPM\BaiTapLonKTPM\obj\Debug\BaiTapLonKTPM.exe
+D:\232\KTPM\BaiTapLonKTPM\BaiTapLonKTPM\BaiTapLonKTPM\obj\Debug\BaiTapLonKTPM.pdb

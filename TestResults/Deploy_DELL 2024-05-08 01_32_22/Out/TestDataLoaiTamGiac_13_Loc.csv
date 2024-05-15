@@ -1,0 +1,10 @@
+﻿a, b, c, Loại
+a3, a3, a3, aEquilateralTriangle
+a3, a4, a5, aRightTriangle
+a8, a10, a6, aRightTriangle
+a100, a80, a60, aRightTriangle
+a10, a10, a5, aIsoscelesTriangle
+a5, a7, a5, aIsoscelesTriangle
+a3, a4, a4, aIsoscelesTriangle,
+a7.07,a5, a5, aIsoscelesRightTriangle
+a2, a3, a4, aNormalTriangle

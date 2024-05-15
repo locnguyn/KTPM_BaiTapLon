@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangleProgram_13_Loc", "BaiTapLonKTPM\TriangleProgram_13_Loc.csproj", "{BB066E23-C611-4D3C-8E4B-5ED17CE3C89E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangleProgramTester_13_Loc", "TriangleProgramTester_13_Loc\TriangleProgramTester_13_Loc.csproj", "{C507B485-14D6-4044-BFB3-4CB0EFA2830F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_Gmail_Driver_13_Loc", "Test_Gmail_Driver_13_Loc\Test_Gmail_Driver_13_Loc.csproj", "{D3FE6497-B659-4D6A-B166-288C69F636B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selenium_13_Loc_Tester", "Selenium_13_Loc_Tester\Selenium_13_Loc_Tester.csproj", "{A38C0118-2A8A-4F1E-8FE1-11A6671919E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB066E23-C611-4D3C-8E4B-5ED17CE3C89E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB066E23-C611-4D3C-8E4B-5ED17CE3C89E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB066E23-C611-4D3C-8E4B-5ED17CE3C89E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB066E23-C611-4D3C-8E4B-5ED17CE3C89E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C507B485-14D6-4044-BFB3-4CB0EFA2830F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C507B485-14D6-4044-BFB3-4CB0EFA2830F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C507B485-14D6-4044-BFB3-4CB0EFA2830F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C507B485-14D6-4044-BFB3-4CB0EFA2830F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3FE6497-B659-4D6A-B166-288C69F636B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3FE6497-B659-4D6A-B166-288C69F636B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3FE6497-B659-4D6A-B166-288C69F636B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3FE6497-B659-4D6A-B166-288C69F636B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A38C0118-2A8A-4F1E-8FE1-11A6671919E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A38C0118-2A8A-4F1E-8FE1-11A6671919E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A38C0118-2A8A-4F1E-8FE1-11A6671919E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A38C0118-2A8A-4F1E-8FE1-11A6671919E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97CDF21D-5FDE-43E7-A979-7C91332B9CAE}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+D:\232\KTPM\BaiTapLonKTPM\BaiTapLonKTPM\BaiTapLonKTPM\bin\Debug\BaiTapLonKTPM.exe.config
+D:\232\KTPM\BaiTapLonKTPM\BaiTapLonKTPM\BaiTapLonKTPM\bin\Debug\BaiTapLonKTPM.exe
+D:\232\KTPM\BaiTapLonKTPM\BaiTapLonKTPM\BaiTapLonKTPM\bin\Debug\BaiTapLonKTPM.pdb
+D:\232\KTPM\BaiTapLonKTPM\BaiTapLonKTPM\BaiTapLonKTPM\obj\Debug\BaiTapLonKTPM_13_Loc.Form_13_Loc.resources
+D:\232\KTPM\BaiTapLonKTPM\BaiTapLonKTPM\BaiTapLonKTPM\obj\Debug\BaiTapLonKTPM.Properties.Resources.resources
+D:\232\KTPM\BaiTapLonKTPM\BaiTapLonKTPM\BaiTapLonKTPM\obj\Debug\TriangleProgram_13_Loc.csproj.GenerateResource.cache
+D:\232\KTPM\BaiTapLonKTPM\BaiTapLonKTPM\BaiTapLonKTPM\obj\Debug\TriangleProgram_13_Loc.csproj.CoreCompileInputs.cache
+D:\232\KTPM\BaiTapLonKTPM\BaiTapLonKTPM\BaiTapLonKTPM\obj\Debug\BaiTapLonKTPM.exe
+D:\232\KTPM\BaiTapLonKTPM\BaiTapLonKTPM\BaiTapLonKTPM\obj\Debug\BaiTapLonKTPM.pdb

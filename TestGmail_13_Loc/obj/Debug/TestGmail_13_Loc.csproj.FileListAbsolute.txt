@@ -1,0 +1,17 @@
+D:\232\KTPM\BaiTapLonKTPM\BaiTapLonKTPM\TestGmail_13_Loc\bin\Debug\selenium-manager\linux\selenium-manager
+D:\232\KTPM\BaiTapLonKTPM\BaiTapLonKTPM\TestGmail_13_Loc\bin\Debug\selenium-manager\macos\selenium-manager
+D:\232\KTPM\BaiTapLonKTPM\BaiTapLonKTPM\TestGmail_13_Loc\bin\Debug\selenium-manager\windows\selenium-manager.exe
+D:\232\KTPM\BaiTapLonKTPM\BaiTapLonKTPM\TestGmail_13_Loc\bin\Debug\TestGmail_13_Loc.dll.config
+D:\232\KTPM\BaiTapLonKTPM\BaiTapLonKTPM\TestGmail_13_Loc\bin\Debug\TestGmail_13_Loc.dll
+D:\232\KTPM\BaiTapLonKTPM\BaiTapLonKTPM\TestGmail_13_Loc\bin\Debug\TestGmail_13_Loc.pdb
+D:\232\KTPM\BaiTapLonKTPM\BaiTapLonKTPM\TestGmail_13_Loc\bin\Debug\Newtonsoft.Json.dll
+D:\232\KTPM\BaiTapLonKTPM\BaiTapLonKTPM\TestGmail_13_Loc\bin\Debug\WebDriver.dll
+D:\232\KTPM\BaiTapLonKTPM\BaiTapLonKTPM\TestGmail_13_Loc\bin\Debug\Newtonsoft.Json.xml
+D:\232\KTPM\BaiTapLonKTPM\BaiTapLonKTPM\TestGmail_13_Loc\bin\Debug\WebDriver.xml
+D:\232\KTPM\BaiTapLonKTPM\BaiTapLonKTPM\TestGmail_13_Loc\obj\Debug\TestGmail_13_Loc.csproj.AssemblyReference.cache
+D:\232\KTPM\BaiTapLonKTPM\BaiTapLonKTPM\TestGmail_13_Loc\obj\Debug\TestGmail_13_Loc.Form_Test_Gmail_13_Loc.resources
+D:\232\KTPM\BaiTapLonKTPM\BaiTapLonKTPM\TestGmail_13_Loc\obj\Debug\TestGmail_13_Loc.Properties.Resources.resources
+D:\232\KTPM\BaiTapLonKTPM\BaiTapLonKTPM\TestGmail_13_Loc\obj\Debug\TestGmail_13_Loc.csproj.GenerateResource.cache
+D:\232\KTPM\BaiTapLonKTPM\BaiTapLonKTPM\TestGmail_13_Loc\obj\Debug\TestGmail_13_Loc.csproj.CoreCompileInputs.cache
+D:\232\KTPM\BaiTapLonKTPM\BaiTapLonKTPM\TestGmail_13_Loc\obj\Debug\TestGmail_13_Loc.dll
+D:\232\KTPM\BaiTapLonKTPM\BaiTapLonKTPM\TestGmail_13_Loc\obj\Debug\TestGmail_13_Loc.pdb

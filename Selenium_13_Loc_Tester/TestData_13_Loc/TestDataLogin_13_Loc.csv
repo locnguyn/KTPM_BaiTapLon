@@ -1,0 +1,6 @@
+﻿Test case ID, tài khoản, mật khẩu, kết quả mong muốn
+TC01, ktpm.13.loc@gmail.com, 1234567890A@a, Logged in successfully
+TC01, ktpm.13.loc, 1234567890A@a, Logged in successfully
+TC02, âciasjca, 1234567890A@a, Enter a valid email or phone number
+TC03, tai.khoan.khong.ton.tai.13.loc, password, Couldnt find your Google Account
+TC04, ktpm.13.loc@gmail.com, passwordsai, Wrong password. Try again or click Forgot password to reset it.
